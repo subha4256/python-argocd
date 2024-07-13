@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-webapp
-        image: azuresubha/pythoweappcicd:24
+        image: azuresubha/pythoweappcicd:28
         ports:
         - containerPort: 80
